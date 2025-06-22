@@ -31,6 +31,10 @@ maintenance personnel to control and operates both PA and PIDS modules in the sy
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Screenshots
+![Sample of Station Control Tab](/images/lrt.png)
+
+
+## Screenshots
 ![Sample of Station Control Tab](/images/01.jpg)
 
 ## Technologies
